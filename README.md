@@ -9,8 +9,12 @@ Website that tells you the location of the nearest e-waste collection and recycl
 ## Problem Creater's Organization
 Ministry of Environment
 
+
+
 ## Idea
 The website will serve as a platform connecting individuals and businesses looking to recycle their electronic waste with certified recycling centers. It will provide information on the importance of e-waste recycling, guidelines on how to properly dispose of electronic devices, and facilitate the process of finding nearby recycling centers. Additionally, the website can incorporate features for tracking the environmental impact of recycling efforts, educational resources on sustainable electronics consumption, and a community forum for discussions on e-waste management practices
+
+
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/madhanraj67/SIHPS/assets/150319515/80841006-5018-4e1a-b15b-de7affc0b81c)
